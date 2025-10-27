@@ -1,4 +1,4 @@
-# ReFace-SR
+# TinyESPCN-SR
 # 🧠 TinyESPCN Super-Resolution
 
 ## 📘 Overview
